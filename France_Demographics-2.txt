@@ -1,0 +1,12 @@
+(* Created by Wolfram|Alpha. Subject to Pro License. www.wolframalpha.com *)
+Grid[{{"population", WolframAlphaQuantity[6.4768389*^7, "people", 
+    "Appearance" -> "Words", "Precision" -> 3]}, 
+  {"population density", WolframAlphaQuantity[307.44282468900116, 
+    "people per square mile", "Appearance" -> "Number", "Precision" -> 3]}, 
+  {"population growth", WolframAlphaQuantity[0.5372418300836568, 
+    "percent per year", "Appearance" -> "Number", "Precision" -> 3]}, 
+  {"life expectancy", WolframAlphaQuantity[
+    80.9800000000000039790393202565610408783`3.9083777724323903, "years", 
+    "Appearance" -> "Number", "Precision" -> 4]}, 
+  {"median age", WolframAlphaQuantity[39.4, "years", 
+    "Appearance" -> "Number", "Precision" -> 3]}}]

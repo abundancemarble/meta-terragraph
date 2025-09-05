@@ -1,0 +1,25 @@
+{"population" : {
+	"value" : 6.48e7, 
+	"unit" : "people"
+}, 
+"population density" : {
+	"value" : 307., 
+	"unit" : "people per square mile"
+}, 
+"population growth" : {
+	"value" : 0.537, 
+	"unit" : "percent per year"
+}, 
+"life expectancy" : {
+	"value" : 81., 
+	"unit" : "years"
+}, 
+"median age" : {
+	"value" : 39.4, 
+	"unit" : "years"
+}, 
+"terms\/info" : {
+	"creator" : "Wolfram|Alpha", 
+	"query" : "France", 
+	"terms_of_use" : "http:\/\/www.wolframalpha.com\/termsofuse.html"
+}}
